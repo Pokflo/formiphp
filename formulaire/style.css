@@ -1,0 +1,19 @@
+
+form {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    background-position: center;
+    
+}
+p,label {
+    color: white;
+}
+input{
+    border: none;
+}
+.ok {
+    background-color: rgb(248, 204, 60);
+}
+.bday{
+    text-align: center;
+}
